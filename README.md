@@ -7,3 +7,5 @@ Pencil or any drawing tool with sharp border is preferential to make the strokes
 
 Both *.bmp files should be in the same directory as the main.py.
 Names of input files are hardcoded and need no mention in the command line when launching.
+
+Outputs are res1.png (plain edit propagation) and res2.png (texture-aware edit prop using Gabor filters).
